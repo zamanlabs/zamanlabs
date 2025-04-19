@@ -1,6 +1,6 @@
 👋 Hi, I’m @zamanlabs
 👀 I’m interested in AI development, software engineering, and exploring Japan’s culture
-🌱 I’m currently learning Python, AI, and preparing for IELTS & JLPT N5
+🌱 I’m currently learning Python, AI, and Frontend Development.
 💞️ I’m looking to collaborate on AI projects and innovative tech solutions
 📫 How to reach me: zamanlabs
 😄 Pronouns: He/Him
